@@ -4,7 +4,7 @@
 
 > These are just first rough ideas answering the main grant questions
 
-. Art Presentation:
+*ART INNOVATIONS*:
 1. 2D High Resolution Printing
 2. Web generative Art + Web VR
 3. Blockchain Art Market with id encryption
