@@ -3,7 +3,7 @@
 ## CONCEPT TO REALIZATION GRANT 2019-2020
 
 > These are just first rough ideas answering the main grant questions
-. Create a GITHUB REPO for this Project
+
 . Art Presentation:
 1. 2D High Resolution Printing
 2. Web generative Art + Web VR
