@@ -1,10 +1,10 @@
 > These are just first rough ideas answering the main grant questions
-. Create a GITHUB REPO for this Project
+
 . Art Presentation:
-1. 2D High Resolution Printing
-2. Web generative Art + Web VR
-3. Blockchain Art Market with id encryption
-4. Holographic Projection
+1. 2D High Resolution Printing for the main artworks
+2. Web generative Art + Web VR via code tu support each artwork
+3. Blockchain Art Market with id encryption for selling
+4. Holographic Projection in the center
 
 # GRANT EXAMPLE: 'CONCEPT TO REALIZATION'
 
@@ -13,13 +13,15 @@ The Concept to Realization component of Explore and Create supports the full
 ## APPLICATION FORM: GRANT DESCRIPTION
 
 1. GIVE YOUR APPLICATION A NAME - 10 words
-Love Battery : The Lost Cylinder ( Kundalini - the ultimate experience )
-Or simply: The Message
+. The Lost Cylinder
+. Love Battery 
+. Kundalini - the ultimate experience )
+. The Message
 
 2. NAME OF THE CONTACT PERSON RESPONSIBLE FOR THIS APPLICATION
 Bernat Ferragut Sole
 
-3. START DATE (Cut-off date: 2 October 2019 => Notification Results: February 2020)
+3. START DATE (*Cut-off date: 2 October 2019* => Notification Results: February 2020)
 > [Deadlines:](https://canadacouncil.ca/funding/grants/deadlines#P1) 
 1st of March 2020 
 
@@ -37,61 +39,61 @@ Project
 
 7. DESCRIBE YOUR PROPOSED ACTIVITIES, INCLUDING THE RATIONALE FOR YOUR ARTISTIC CHOICES OR THE INSPIRATION FOR THE NEW CREATIVE WORK(S). INDICATE WHEN AND WHERE YOU PLAN TO SHOW YOUR WORK. - 750 words 
 
-This project presents 9 pieces of ART reflecting my personal research on the constant suffering condition of the human being in the past, present and future. The content is presented through the message content received in an OBE at a young age and how this message helps us and gives us direction in how to live a better life as human beings in this world.
+This project presents 10 pieces of ART reflecting my thoughts on a deep  personal out of the body experience - OBE I had at a young age. This experience changed my life and gave a solid ground to a genuine way of expressing myself through the art medium. The artwork presented gives us direction and light in how to live a better life as human beings in this world because opens the possibility of the immortality of the human soul.
 
 a. ACTIVITIES & ARTISTIC CHOICES
-The Project involves the creation of 9 Pieces of Art subdivided into 3 groups + 1.
+The Project involves the creation of 10 Pieces of Art subdivided into 4 groups.
 
-The message received through an OBE altered state of consciousness
+The first is the message received through an OBE altered state of consciousness
 
-0. The Message 
+1. The Message 
 > medium: Digital Print and Web experience - Web VR
-> Projection over a massive big cylinder in the exhibit center
-. The origins of the OOB experience and the message
+> Holographic cylindrical projection at the exhibit center
+. The origins of the OBE experience and the message
 
-The first group relates to the relationship between the cylinder and *SACRED ART*
+The second group relates to the relationship between the cylinder and *SACRED ART*
 Here we show the original message and its relationship with historical influences like the Egyptian, Esoteric and Alchemical arts.
 
-1. The physics of a cylinder Digital
-> medium: Digital Print and Web experience - Robotics and IOT
+2. The physics of a cylinder Digital
+> medium: Digital Print and Web experience - Robotics and IOT?
 . The main focus of the exhibition: decoding the meaning of the cylinder
-2. Polarity Battles
+3. Polarity Battles
 > medium: Digital Print and Web experience - 3D Printing
 . Greed + Fear vs Love + Compassion
-3. The Past - Egyptians
+4. The Past - Egyptians
 > medium: Digital Print and Web experience
 . The cylinder under the Egyptian culture
 
-The second group relates to *RELIGION*. 
+The third group relates to *RELIGION* as we know it. 
 Here we show the inspiration and relationships of Christian, Jewish and Buddhist Religions relating to the presented 3 pieces of Art.
 
-4. Christianity
+5. Christianity
 > medium: Digital Print and Web experience 
 . Christian symbology and the cylindrical relationship
-5. Jewish
+6. Jewish
 > medium: Digital Print and Web experience
 Jewish symbology and the cylindrical relationship
-6. Buddhism
+7. Buddhism
 > medium: Digital Print and Web experience 
 Buddhist symbology and the cylindrical relationship
 
 The third group relates to the *PHYSICAL REALITY*
 Here we show how the Art received behaves in the physical world. How affects us and how present is in our everyday life.
 
-7. Today's life
+8. Today's life
 > medium: Digital Print and Web experience
 . The cylinder in today's daily life
-8. The modern Database
+9. The modern Database
 > medium: Digital Print and Web experience - Blockchain technology
 . The cylindrical structure of today's Databases
-9. The Market
+10. The Market
 > medium: Digital Print and Web experience 
 . The Fear and Greed Index of the Capital Markets today
 
 b. INSPIRATION OF THE CREATIVE WORK
 The inspiration for the work comes from a deeply transformative experience I had when I was 18-19 years old. The so-called 'Kundalini Experience' allowed me to have a natural OBE (Out of the body experience) and attain higher states of consciousness. 
 
-After this event, my life did change forever and the messages received during this deep dive into a consciousness mark the beginning of a series of exhibitions which will describe through art such experiences and in the process decode the messages received to give to the general public good.
+After this event, my life did change forever and the messages received during this deep dive into a consciousness mark the beginning of a series of exhibitions which will describe through art such experiences in the following years. The intention is to decode the messages received and transmit them to the general public good.
 
 c. WORK SHOW: WHEN AND WHERE
 
@@ -155,51 +157,54 @@ END - 15 OCTOBER - Presentation and Exhibition
 
 9. HOW WILL YOUR ACTIVITIES - 250 words :
 . CONTRIBUTE TO YOUR ARTISTIC DEVELOPMENT?
-This work is capital to my artistic development because it's my most personal up to date. Coming from a deep experience within when I was a young adult, 20 years after nothing has changed. I still remember that experience as it was today. 
+This work is capital to my artistic development because it's my most personal up to date. Coming from a profundly deep experience when I was a young adult, 20 years after nothing has changed. I still remember that experience as it was today. 
 
 My artistic style has been always marked by a deep spiritual imprint. And this imprint has pushed me to the study of the main world religions from the East and West. Bringing this work to live will only make me a better artist with a clearer and remarkable personality and style.
 
-This work expresses my deepest mystical, religious and metaphysical experiences and it's vital for me as an artist start exploring this period of my life who supports my energy as an artist and brings a positive message to the masses.
+This work expresses my deepest mystical, religious and metaphysical experiences and it's vital for me as an artist start exploring this period of my life who supports my energy as a human being and brings a positive message to the masses: The possibility of an afterlife
 
 . ADVANCE ARTISTIC PRACTICE?
 - It will deepen my knowledge in the following artistic disciplines:
 1. Web Programming 
-2. Generative Art Coding
-3. Digital Printing latest technologies including 3D Printing
+2. Generative Art Coding and mobile communication
+3. Digital Printing latest technologies
 4. Web Virtual Reality
-5. Robotics and the Internet of Things
+5. Robotics and the Internet of Things - To see
 6. Blockchain technology and crypto identity
 6. Meditative practices of visualization
 
 . WHAT TYPE OF ARTISTIC RISKS WILL YOU BE TAKING?
 I will offer several ways to experience the artwork:
 - Latest digital Printing in medium and large format
-- 3D Printing
-- Creation of a mini IOT Robot
+- 3D Printing and Holographic Projection
+- Creation of a mini IOT Robot - To see
+- Blockchain technology in the backend.
 
 EXPLORING A TRADITIONAL PRACTICE IN A NEW WAY
 - The website with coded Generative art pieces inspired by the main exhibit ones
 - VR version of some of the pieces
+- Holographic Projection
 
 TECHNOLOGY IN AN INNOVATIVE WAY
 - Creation of a Mini IOT Robot for one of the pieces
+- Decentralized storage of Data
 
  NEW MODELS OF DISSEMINATION
- - Digital citizenship with a unique cryptographical identity number bringing individual copyright to the market through Blockchain technology. 
-- Introduction of the pieces into the new decentralized blockchain Market
+ - Digital citizenship with a unique cryptographical identity number bringing individual copyright to the market through the Blockchain technology. 
+- Introduction of the workart into the new decentralized blockchain Market
 
 10. HOW WILL YOUR ACTIVITIES BUILD INTEREST IN AND KNOWLEDGE OF THE ARTISTIC PRACTICE? ARE YOUR ACTIVITIES TARGETED TO A SPECIFIC PUBLIC?
 
 My project goes in the lines of contemporary artist who are opening a new medium which is metaphysical and trascendental at the same time. Visionaries like Alex Grey,and Adolph Turner opened a connection to other artsits who have experienced other worlds with artifical altered states or natural ones like is my case. 
 
-Exist a bigger and bigger community of individuals who care for a better health, a better environment and a better and deeper human relationship. All these individual who are reointroducing to their daily lives ancient techniques like Yoga and Meditation are the public that can be supportive at first sight. 
+Exist a bigger and bigger community of individuals who care for a better health, a better environment and a better and deeper human relationship. All these individual who are reintroducing to their daily lives ancient techniques like Yoga and Meditation are the public that can be supportive at first sight. 
 
-At the same time the Project, although coming from the Metaphysics, dives into modern contemporary art world and puts itself at the for front of new web technologies like webVR, generative art and the use of modern blockchain technologies for the backend encrypted records. This will atract also the classic contemporary art based in new technologies.
+At the same time the Project, although coming from the Metaphysics, dives into modern contemporary art world and puts itself at the forefront of new web technologies like webVR, generative art and the use of modern blockchain technologies for the backend encrypted records. This will atract also the classic contemporary art based in new technologies.
 
 11. IF YOU ARE HIRING ARTISTS, EXPLAIN HOW YOU DETERMINE THE FEES TO BE PAID 
 - 250 words - See if I want to introduce this part or...not. All by myself?
 
-I will hire an artist who will help me to build:
+I will hire an artist who will help me to build: - To see
 
 1- Mini IOT robot - I could build it just in code and in p5js or webVR
 2- Massive Cylinder in the Center - I can look for support to project Holographic images inside a Cylinder.
@@ -211,7 +216,15 @@ In his case he has a lab and is professional in physics
 
 13. DOES NOT TOUCH INDIGENOUS PEOPLE DIRECTLY BUT COULD BE PRESENTED IN ONE OF THEIR SITES
 
+It is not the case.
+
 14. DISTRIBUTION - EXHIBITION - DISSEMINATION - PROMOTION - PLANS
+
+The project will be on the web stored in the EOS Blockchain in a descentralized system. Each of the pieces will be ecrypted and sold in crytpocurrencies as payment method. The payments and shipping will be handled through the website. 
+
+It will be promoted throught the SAT, GESU and other knowh Montreal Art Centers. 
+
+My intention is to do the presentation in a church when possible and have a permanent exhibition there and another rotating different churches in Quebec, Canada and the World.
 
 15. SPECIFIC REQUIREMENTS FOR THE ARTISTIC PRACTICE?
 
@@ -227,7 +240,13 @@ To create ARTWORK for the Exhibition 'Messages: The Lost Cylinder' in the city o
 
 BUDGET AND APPENDICES
 
+. Project requests – up to $60 000, exceptionally up to $100 000
 
+. This amount must match the requested amount in your completed budget. 
+
+. Do not include expenses that are not eligible in this component.
+
+> If successful, you might not be awarded the full amount requested.
 
 
 
