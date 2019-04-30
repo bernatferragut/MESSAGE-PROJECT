@@ -240,7 +240,8 @@ To create ARTWORK for the Exhibition 'Messages: The Lost Cylinder' in the city o
 
 ## BUDGET AND APPENDICES
 
-. Project requests – up to $60 000, exceptionally up to $100 000
+. Project requests – up to $60 000, exceptionally up to 
+$100 000
 
 . This amount must match the requested amount in your completed budget. 
 
