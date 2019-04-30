@@ -238,7 +238,7 @@ To create ARTWORK for the Exhibition 'Messages: The Lost Cylinder' in the city o
 
 17. OVERLAPPING APPLICATION?
 
-BUDGET AND APPENDICES
+## BUDGET AND APPENDICES
 
 . Project requests – up to $60 000, exceptionally up to $100 000
 
@@ -248,6 +248,22 @@ BUDGET AND APPENDICES
 
 > If successful, you might not be awarded the full amount requested.
 
+## REQUIRED DOCUMENTS
+
+Maybe find an Exhibitor who will for sure show the Artwork as a prove of show.
+
+## SUPPORT MATERIALS
+
+You must submit at least 1 item of support material, and any other relevant
+documents related to your project.
+
+Support material should be your current work/activities with a relationship or relevance to the grant application; it may also include the work/activities of other key artists or partners. 
+
+You may choose to include earlier work/activities to provide a context for your application.
+
+. Include a link to my last exhibition LLULL at Universite de Montreal
+. Include my new studies on the Cylinder - Generative Art
+. Latest Prints
 
 
 
