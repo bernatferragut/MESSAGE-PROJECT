@@ -240,10 +240,9 @@ To create ARTWORK for the Exhibition '304' - Out Of the Body experiences' in the
 
 ## BUDGET AND APPENDICES
 
-. Project requests – up to $60 000, exceptionally up to 
-$100 000
+. Project requests – up to 50.700 $CAND - *Budget Consultation with Mélanie*
 
-. This amount must match the requested amount in your completed budget. 
+. This amount must match the requested amount in your completed budget.
 
 . Do not include expenses that are not eligible in this component.
 
@@ -252,7 +251,7 @@ $100 000
 ## REQUIRED DOCUMENTS
 
 Maybe find an Exhibitor who will for sure show the Artwork as a prove of show. 
-. Parlar amb el Centre Catala de Quebec
+. *Talk with the president of the Centre Catala de Quebec*
 
 ## SUPPORT MATERIALS
 
@@ -263,6 +262,6 @@ Support material should be your current work/activities with a relationship or r
 
 You may choose to include earlier work/activities to provide a context for your application.
 
-. Include a link to my last exhibition LLULL at Universite de Montreal
-. Include my new studies on the Cylinder - Generative Art
-. Latest Prints - Combine NodeBox Art
+. *Include a link to my last exhibition LLULL at Universite de Montreal*
+. *Include my new studies on the Cylinder - Generative Art*
+. *Latest Prints - Combine NodeBox Art*
