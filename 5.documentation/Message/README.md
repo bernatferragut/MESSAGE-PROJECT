@@ -3,13 +3,11 @@ sidebar: auto
 sidebarDepth: 2
 ---
 
-## Introduction
+## Message
 **304:Experiences Out of the Body** presents 10 artworks reflecting my personal understanding on different 
 'Out of the Body Experiences' / OBE I had at a young age. These experiences made a profound impact in myself and made me live and see life in a different way. After many years of study, investigation and decoding here I present some conclusions on the messages I did receive during these deep experiences. 
 
-> The Cylinder is at the center of this exhibition
-
-[GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/4tjs9bau_)
+> The Message
 
 <iframe frameborder="0" 
 border="0" 
@@ -24,7 +22,7 @@ border-radius: 6px;
 overflow: hidden;
 position: relative;"
 scrolling="no"
-src="https://editor.p5js.org/bernatferragut/embed/4tjs9bau_"></iframe>
+src="/symbols.svg"></iframe>
 
 ## Structure
 * **SIZE:** The Exhibition will be in a square or round hall of a minimum of 25'x25'.

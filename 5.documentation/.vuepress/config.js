@@ -1,7 +1,12 @@
 module.exports = {
-    title: '304:OBE',
+    title: '3 0 4 | O B E',
     description: 'Experiences out of the body',
     themeConfig: {
-      sidebar: 'auto'
+      sidebar: 'auto',
+      nav: [
+        { text: 'Home', link: '/' },
+        { text: 'Intro', link: '/Intro/' },
+        { text: 'Message', link: '/Message/' },
+      ]
     }
   }
