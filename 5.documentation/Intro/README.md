@@ -37,6 +37,16 @@ Surrounding this central piece we will present 'the Conclusions'. Each of the 9 
 
 The 9 pieces will be connected with LED lights to the central LED cylindrical artwork.
 
+## Technology
+
+* A webiste for the whole exhibition will be created with more technical information.
+
+* Artworks documentation will be connected through QR Codes to each website page to .
+
+* Artworks will be open to sale through the EOS Blockchain web 3.0.
+
+* Artworks will be encrypted cryptographically and sold under a unique prove of ownership id code stored forever on the blockchain
+
 ## Questions
 The exhibition brings a positive message and opens the public to the following questions:
 

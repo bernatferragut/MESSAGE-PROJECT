@@ -3,10 +3,9 @@ sidebar: auto
 sidebarDepth: 2
 ---
 
-## Message
-The Message is the central piece of the Exhibit. The pieces is formed by a 5'X2' cylindrical grid of LED's and 9 LED'cables connecting the central piece to the other 9 ones. Surrounding this piece there is a cylindrical print explaining the Out of the Body Experience in a mix of isometric futuristic illustration.
+## 5.Jewish
 
-> The Message
+> Polarity
 
 [GO TO EDITOR](https://editor.p5js.org/bernatferragut/sketches/4tjs9bau_)
 
@@ -26,27 +25,24 @@ scrolling="no"
 src="https://editor.p5js.org/bernatferragut/embed/4tjs9bau_"></iframe>
 
 ## Concept
+* Focus of this artwork: Jewish symbology and it's cylindrical relationship
 
 ## Materials
+* Digital Print and Web experience
 
-## Ideas
+## Description
 
-## Themes
+
+## Style
+* 3D Maya low polygon renders with polylines in Isometric view
+* 3 main Colors: Green, Red, Yellow plus Black.
+* Add textures with line or dot patterns
+* Strong typography
+* Messages and phrases supporting images
+* Widescreen story
 
 ## Research
+* Find different sorts of high quality printers and start testing.
 
 
 <script language="JavaScript">
-function autoResize(id){
-    let newheight;
-    let newwidth;
-
-    if(document.getElementById){
-        newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
-        newwidth=document.getElementById(id).contentWindow.document .body.scrollWidth;
-    }
-
-    document.getElementById(id).height= (newheight) + "px";
-    document.getElementById(id).width= (newwidth) + "px";
-}
-</script>
