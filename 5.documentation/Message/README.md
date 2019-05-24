@@ -46,6 +46,10 @@ The exhibition presents a concrete body of information with a positive message a
 8. **What does the cylindrical form mean to us humans?**
 9. **How should we approach the last moments od our lives?**
 
+
+![QRCODE](/qrcode-message.png)
+
+
 <script language="JavaScript">
 function autoResize(id){
     let newheight;
