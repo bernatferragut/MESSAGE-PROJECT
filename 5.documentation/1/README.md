@@ -46,3 +46,5 @@ src="https://editor.p5js.org/bernatferragut/embed/4tjs9bau_"></iframe>
 
 
 <script language="JavaScript">
+
+## Vue Components

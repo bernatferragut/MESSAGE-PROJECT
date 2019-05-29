@@ -25,6 +25,15 @@ position: relative;"
 scrolling="no"
 src="https://editor.p5js.org/bernatferragut/embed/4tjs9bau_"></iframe>
 
+The message received could be subdivided in 4 parts:
+- Starting point and Kundalini awaken
+- Cylinderical shape leaving
+- Golden door and light encounter
+- Nicotine - private
+- Back to the Body
+
+> In the exhibition we focus primarly on the first half of the experience, the path towards the door through the kundalini awakenement and the nature of suffering.
+
 ## Concept
 The origins of the OBE experience and it's message where the *'CYLINDRICAL SHAPE'* it's central.
 

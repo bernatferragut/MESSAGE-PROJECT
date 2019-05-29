@@ -5,7 +5,7 @@ sidebarDepth: 2
 
 ## Introduction
 **Out of the Body: Experiences** presents 10 artworks reflecting my personal understanding on different 
-'Out of the Body Experiences' / OBE I had at a young age. These experiences made a profound impact in myself and made me live and see life in a different way. After many years of study, investigation and decoding here I present some conclusions on the messages I did receive during these deep experiences. 
+'Out of the Body Experiences' / OBE I had at a young age. These experiences made a profound impact in myself and made me live and see life in a different way. After many years studing different religions, investigating and decoding them here I present some conclusions on the messages I did receive during these deep experiences. I concentrate mainly in the 'topology of suffering' in this human life.
 
 > Exhibit main structure
 
