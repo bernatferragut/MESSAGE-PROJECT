@@ -2,7 +2,7 @@
 sidebar: auto
 sidebarDepth: 2
 home: true
-heroImage: /symbols.svg
+heroImage: /images/symbols.svg
 heroText: 'OUT OF THE BODY'
 tagline: Experiences Out of the Body
 actionText: Introduction →

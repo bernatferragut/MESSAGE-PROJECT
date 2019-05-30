@@ -44,7 +44,12 @@ src="https://editor.p5js.org/bernatferragut/embed/4tjs9bau_"></iframe>
 ## Research
 * Find different sorts of high quality printers and start testing.
 
+## Vue Components
+* Testing Components
+
+<NumberModifier :number="0"></NumberModifier>
+
+
 
 <script language="JavaScript">
 
-## Vue Components

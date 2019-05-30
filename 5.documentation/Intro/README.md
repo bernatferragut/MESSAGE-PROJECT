@@ -22,7 +22,7 @@ border-radius: 6px;
 overflow: hidden;
 position: relative;"
 scrolling="no"
-src="/structure.svg"></iframe>
+src="/images/structure.svg"></iframe>
 
 ## Concept
 * **STRUCTURE** One cylindrical piece at the center surrounded by 9 artworks.
@@ -60,7 +60,7 @@ The exhibition brings a positive message and opens the public to the following q
 9. **How should we approach the last moments of our lives?**
 
 > QR CODE TEST
-![QRCODE](/qrcode-message.png)
+![QRCODE](/images/qrcode-message.png)
 
 
 <script language="JavaScript">

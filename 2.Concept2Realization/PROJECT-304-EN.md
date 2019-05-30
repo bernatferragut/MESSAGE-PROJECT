@@ -2,14 +2,12 @@
 -----------------------------------
 
 . Art Presentation:
-1. 2D High Resolution Printing for the main artworks - 9 of them
-2. Web generative Art + Web VR via code tu support each artwork
+1. 10 High Resolution Artworks
+2. Web generative Artworks supporting each Artwork
 3. Digital rights being stored on the blockchain
-4. Holographic Projection / 3D Sculpture in the center
+4. 3D LED's Sculpture in the center
 
 # GRANT: 'CONCEPT TO REALIZATION'
-
-The Concept to Realization component of Explore and Create supports the full creative cycle – from the initial idea through to presentation, at any stage of the creative continuum. Canadian artists, artistic groups and arts organizations can apply to create projects intended for presentation. Grants provide support for artistic research, creation, project development, remounts, production, post-production and presentation.
 
 ## APPLICATION FORM: GRANT DESCRIPTION
 
@@ -39,67 +37,68 @@ Project
 7. DESCRIBE YOUR PROPOSED ACTIVITIES, INCLUDING THE RATIONALE FOR YOUR ARTISTIC CHOICES OR THE INSPIRATION FOR THE NEW CREATIVE WORK(S). INDICATE WHEN AND WHERE YOU PLAN TO SHOW YOUR WORK. - 750 words 
 
 The project presents 10 pieces of media ART reflecting my personal understanding over a series of 
-'Out of the Body Experiences' - OBE I had at a young age. These experiences changed my life and gave me the vision and call to express myself through the art as a medium.
+'Out of the Body Experiences'/OBE I had at a young age. These experiences changed my life and inpired me 
+to express myself through the art as a medium in my adulthood.
 
-The conclusions presented through these 10 pieces of art propose to the audience a new direction and light in how to live a better life as human beings. The exhibition opens the possibility of the immortality of the human soul and it's  consequences while being alive in this world.
+The 10 pieces of art show the audience my personal interpretations of these deep OBE experiences. In my conclusions I deal with polar conepts like physical / metaphisical,  consciouss / uncounsciouss and the nature of love and suffering. The exhibition proposes the human soul deathless and it's  consequences and responsabities while being alive in this world.
 
 a. ACTIVITIES & ARTISTIC CHOICES
 The Project involves the creation of 10 Pieces of Art subdivided into 4 groups.
 
-The first is the message received through an OBE altered state of consciousness.
+* The first group is the message received through an OBE altered state of consciousness.
 
 1. The Message 
-> medium: Digital Print and Web experience - Web VR
-> Holographic/VR cylindrical projection at the exhibit center
-. The origins of the OBE experience and it's message where the *'CYLINDRICAL SHAPE'* it's central.
+> medium: Digital Print - Web Generative Art
+> 3D LES's light cylinder at the exhibit center
+. The origins of the OBE experience and it's message where the *'CYLINDRICAL SHAPE'* 
+plays a central role and most of the exhibition will evolve around the significance of this geometrical shape.
 
-The second group relates to my personal conclusions after living these transformative experiences, 
+* The second group relates to my personal conclusions after living these transformative experiences, 
 and it is subdivided into 3 parts.
 
-We show the relationship between the 'cylindrical shape', the *SACRED ART* and its relationship with historical influences like the Egyptian, Esoteric and Alchemical arts.
+We show the relationship between the 'cylindrical shape' and *SACRED ART*.
+It's relationship with historical influences like the Egyptian, Esoteric and Alchemical arts.
 
 2. The physics of the 'cylindrical shape'
-> medium: Digital Print and Web experience - Robotics and IOT?
+> medium: Digital Print - Web Generative Art
 . Focus of this artwork: decoding the meaning of the 'cylinder'.
 3. Polarity Battles
-> medium: Digital Print and Web experience - 3D Printing
-. Focus of this artwork: relationship between Greed and Fear against Love and Compassion.
+> medium: Digital Print - Web Generative Art
+. Focus of this artwork: relationship between Greed / Fear and Love / Compassion.
 4. The Past - Egyptians
-> medium: Digital Print and Web experience
+> medium: Digital Print - Web Generative Art
 . Focus of this artwork: The cylinder under the Egyptian culture.
 
 The third group relates to *RELIGION* as we know it. 
-We show the inspiration, relationships and interconnections of Christian, Jewish and Buddhist Faiths 
-relating to the 3 pieces of Art presented.
+We show the relationships and interconnections between Jewish-Christian, Buddhist and Hindu Faiths.
 
-5. Christianity
-> medium: Digital Print and Web experience 
+5. Judeo-Christian
+> medium: Digital Print - Web Generative Art 
 . Focus of this artwork: Christian symbology and it's cylindrical relationship
-6. Jewish
-> medium: Digital Print and Web experience
-. Focus of this artwork: Jewish symbology and it's cylindrical relationship
-7. Buddhism
-> medium: Digital Print and Web experience 
+6. Buddhist
+> medium: Digital Print - Web Generative Art
 . Focus of this artwork: Buddhist symbology and it's cylindrical relationship
+7. Hundu
+> medium: Digital Print - Web Generative Art
+. Focus of this artwork: Hindu symbology and it's cylindrical relationship
 
-The third group relates to the *PHYSICAL REALITY*
-Here we show how the information recieved behaves in the physical world. 
-How affects us and how it's presented in our everyday life.
+The third group relates to the *PHYSICAL REALITY*.
+We show how the cylindrical shape appears and behaves in our everyday life.
 
 8. Today's life
-> medium: Digital Print and Web experience
+> medium: Digital Print - Web Generative Art
 . Focus of this artwork: The cylinder in today's daily life
 9. The modern Database
 > medium: Digital Print and Web experience - Blockchain technology
 . Focus of this artwork: The cylindrical structure in today's Digital Databases
 10. The Market
-> medium: Digital Print and Web experience 
+> medium: Digital Print - Web Generative Art 
 . Focus of this artwork: The Fear and Greed Index of the Capital Markets today
 
 b. INSPIRATION OF THE CREATIVE WORK
 The inspiration for the work comes from a deeply transformative experience I had when I was 18-19 years old. The so-called 'Kundalini Experience' allowed me to have a natural OBE (Out of the body experience) and attain higher states of consciousness. 
 
-After this event, my life did change forever and the messages received during this deep dive into a consciousness mark the beginning of a series of exhibitions which will describe through art such experiences in the following years. The intention is to decode the messages received and transmit them to the general public for good.
+After this event, my life did change forever and the messages received during this deep dive into consciousness marked the beginning of a series of exhibitions which will describe through art such experiences in the following years. The intention is to decode the messages received and transmit them to the general public for good.
 
 c. WORK SHOW: WHEN AND WHERE
 
@@ -114,7 +113,7 @@ Because the Project objective is to share the information received after attaini
 
 START -1 MARCH 
 *CONCEPTION AND DESIGN: MARCH-MAY*
-MARCH - Conception and Design pieces: 1-3 and message
+MARCH - Conception and Design pieces: 1-3 + the Message
 1-5 March: Message
 6-10 March: Artwork 1
 11-16 March: Artwork 2
@@ -141,7 +140,7 @@ JUNE - Refinement and Production fo pieces: 1-3 and message
 17-21 June: Artwork 3
 21-End: Concept refinement of the pieces
 
-JULY - Production and Refinement fo pieces: 4-6 and message
+JULY - Production and Refinement for pieces: 4-6 and message
 1-10 July: Artwork 4
 11-16 July: Artwork 5
 17-21 July: Artwork 6
@@ -174,32 +173,31 @@ This work expresses my deepest mystical, religious and metaphysical experiences 
 1. Modern Web Programming
 2. Generative Art Coding
 3. Digital Printing latest technologies
-4. Web Virtual Reality
-5. Digital rights stored in the Blockchain - Web 3.0
+4. Digital rights stored in the Blockchain - Web 3.0
 6. Meditative practices of visualization
 
 . WHAT TYPE OF ARTISTIC RISKS WILL YOU BE TAKING?
 I will offer several ways to experience the artwork:
 - Latest digital Printing in medium and large format
-- 3D Printing and Holographic Projection
+- LED's Sculpture production
 - Web 3.0 / Blockchain technology digital rights storage
 
 EXPLORING A TRADITIONAL PRACTICE IN A NEW WAY / INNOVATIVE WAY
 - Coding Generative art pieces inspired by the main printed ones
-- VR version of some of the pieces
+- LED's Hardware building and software Programming
 - Decentralized storage of Data in the EOS.io Blockchain
 
  NEW MODELS OF DISSEMINATION
  - Digital citizenship with a unique cryptographical identity number bringing individual copyright to the market through the Blockchain technology. 
-- Introduction of the workart into the new decentralized blockchain Market
+- Introduction of the art-work into the new decentralized blockchain Market
 
 10. HOW WILL YOUR ACTIVITIES BUILD INTEREST IN AND KNOWLEDGE OF THE ARTISTIC PRACTICE? ARE YOUR ACTIVITIES TARGETED TO A SPECIFIC PUBLIC?
 
-My project goes in the lines of contemporary artist who are opening a new medium which is metaphysical and trascendental at the same time. Visionaries like Alex Grey and Adolph Turner opened a connection to other artsits who have experienced other worlds with artifical altered states or natural ones like is my case. This is positive and transformative art which aims to heal and transform.
+My project goes in the lines of contemporary artist who are opening a new medium which is metaphysical and trascendental at the same time. Visionaries like Alex Grey and Adolph Turner opened the doors to other artsits who have experienced other worlds with artifical altered states or natural ones like is my case. This is positive and transformative art which aims to heal and transform.
 
 Exist a bigger and bigger community of individuals who care for a better health, a better environment and a better and deeper human relationship. All these individual who are reintroducing to their daily lives ancient techniques like Yoga and Meditation are the public that can be supportive at first sight. 
 
-At the same time the Project, although coming from the Metaphysics, dives into modern contemporary art world and puts itself at the forefront of new web technologies like webVR, Generative Art and the use of modern blockchain technologies for the backend encrypted records. This will atract also the interest of contemporary public who connect with new technologies.
+At the same time the Project, although coming from the Metaphysics, dives into modern contemporary art world and puts itself at the forefront of new web technologies like Web Generative Art and the use of modern Blockchain technologies for the backend encrypted records. This will atract also the interest of contemporary public who connect with the latest new technologies.
 
 11. IF YOU ARE HIRING ARTISTS, EXPLAIN HOW YOU DETERMINE THE FEES TO BE PAID 
 - 250 words - See if I want to introduce this part or...not. All by myself?
@@ -220,7 +218,7 @@ His fees will be 25$/h and will work in paralel with me during 6 months -->
 
 14. DISTRIBUTION - EXHIBITION - DISSEMINATION - PROMOTION - PLANS
 
-The project will be on the web stored in the EOS Blockchain in a descentralized system. Each of the pieces will be ecrypted and sold in crytpocurrencies as payment method. The payments and shipping will be handled through the website. 
+The project will be hosted on the new web 3.0 stored on the EOS Blockchain in a descentralized way. Each of the pieces will be ecrypted and sold in crytpocurrencies as payment method. The payments and shipping will be handled through the website. 
 
 It will be promoted throught the SAT, GESU and other known Montreal Art Centers. 
 
@@ -229,7 +227,7 @@ My intention is to do the presentation in a church when possible and have a perm
 15. SPECIFIC REQUIREMENTS FOR THE ARTISTIC PRACTICE?
 
 1- EOS tokens to use the super decenteralized world computer
-2- Technology to Project in 3D -  to see
+2- Technology to Project in 3D - to see
 3- Blockchain programming skills and 
 
 16. ONE SENTENCE SUMMARY OF YOUR PROJECT - 25 words
@@ -264,4 +262,4 @@ You may choose to include earlier work/activities to provide a context for your 
 
 . *Include a link to my last exhibition LLULL at Universite de Montreal*
 . *Include my new studies on the Cylinder - Generative Art*
-. *Latest Prints - Combine NodeBox Art*
+. *Latest Prints - The Message - Combine NodeBox Art*
