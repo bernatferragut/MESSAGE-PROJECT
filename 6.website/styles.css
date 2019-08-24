@@ -32,20 +32,98 @@
     background: rgb(19, 18, 18);
     z-index: 1;
   }
+  .navbar-center {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.5rem;
+  }
+  .nav-icon {
+    color: var(--mainWhite);
+    font-size: 1rem;
+  }
+  .cart-btn {
+    position: relative;
+    cursor: pointer;
+  }
+  .cart-items {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background: var(--primaryColor);
+    padding: 0 5px;
+    border-radius: 30%;
+    color: var(--mainWhite);
+  }
   h2 {
     font-size: 1.5rem;
     padding: 1rem;
     color: var(--mainWhite)
   }
-/* CARDS */
-.cards{
+  /* END OF NAVBAR */ 
+
+
+/* MAIN */
+.main {
+  min-height: calc(100vh - 60px);
+  background: url("./images/main-OBE.svg") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  padding: 2rem;
+  border-radius: 0.5em;
+}
+.banner-title {
+  font-size: 3.4rem;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  margin-bottom: 3rem;
+}
+.banner-btn {
+  padding: 1rem 3rem;
+  text-transform: uppercase;
+  letter-spacing: var(--mainSpacing);
+  font-size: 1rem;
+  background: var(--primaryColor);
+  color: var(--mainBlack);
+  border: 1px solid var(--primaryColor);
+  transition: var(--mainTransition);
+  cursor: pointer;
+  border-radius: 0.5em;
+}
+.banner-btn:hover {
+  background: transparent;
+  color: var(--primaryColor);
+}
+/* END OF MAIN */
+/* PRODUCTS */
+.products {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 4rem 1rem;
+}
+.section-title h2 {
+  color: var(--mainBlack);
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 5rem;
+  text-transform: capitalize;
+  letter-spacing: var(--mainSpacing);
+}
+
+.products-center {
   display: grid;
   grid-gap: 1rem;
 }
-.card {
+.product {
   background-color:var(--primaryColor);
   color: var(--mainWhite);
   padding: 1rem;
@@ -62,3 +140,4 @@
     grid-template-columns: repeat(3, 1fr);
   }
 }
+/* END OF PRODUCTS */
